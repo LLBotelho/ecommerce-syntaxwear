@@ -3,11 +3,25 @@ body {
     color: #333333;
 }
 
+main {
+    padding: 2.5rem 0 0;
+    max-width: 1360px;
+    margin: 0 auto;
+}
+
+div{
+    border-radius: 20px;
+}
+
+section{
+    border-radius: 20px;
+}
+
 .btn {
     font-size: 1.25rem;
     width: 161px;
     height: 48px;
-    border-radius: 25px;
+    border-radius: 30px;
     color: #ffffff;
     font-weight: 400;
     padding: 10px 20px;
